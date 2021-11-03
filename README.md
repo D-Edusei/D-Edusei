@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dzifa Edusei
-- 👀 I’m interested in Graphic Design, UI & UX Design & Code
+- 👀 I’m interested in Graphic Design, UI & UX Design & Coding
 - 🌱 I’m currently learning JavaScript, Node.js & React
 - 🔗 Linkedin: Dzifa Edusei
 
